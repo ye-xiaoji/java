@@ -1,5 +1,5 @@
 泊位计划算法的介绍：
-![Alt text](https://github.com/username/repository-name/raw/main/images/example.png)
+![Alt text](https://github.com/ye-xiaoji/java/blob/main/PortScheduler/imgs/%E6%A1%A5%E5%90%8A.png)
 ![Alt text](https://github.com/username/repository-name/raw/main/images/example.png)
 
 
